@@ -2,9 +2,8 @@
 <h3 align="center">I am an enthusiastic, ambitious & passionate Web developer, waiting for an opportunity. <br>Also Willing to contribute in open source environment.</h3>
 
 <p align="center" width="20"> <img src="https://user-images.githubusercontent.com/86113092/197346615-5255ceb4-5892-4f6f-bd48-df72291c5e6c.gif" alt="ompanchwate" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ompanchwate&label=Profile%20views&color=0e75b6&style=flat" alt="ompanchwate" /> </p>
 
-- 🔭 I’m currently working on **My Skills.**
+- 🔭 I’m currently working on **my skills.**
 
 - 🌱 I’m currently learning **React.**
 
