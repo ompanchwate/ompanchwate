@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **something new.**
 
-- 💬 Ask me about **Web Developement.**
+- 💬 Ask me about **Web Development.**
 
 - 📫 How to reach me **ompanchwate2003@gmail.com.**
 
