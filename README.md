@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Om 🧑‍💻 </h1>
 <h3 align="center">I am an enthusiastic, ambitious & passionate Web developer, waiting for an opportunity. <br>Also Willing to contribute in open source environment.</h3>
 
-<p align="center" width="20"> <img src="https://user-images.githubusercontent.com/86113092/197346615-5255ceb4-5892-4f6f-bd48-df72291c5e6c.gif" alt="ompanchwate" /> </p>
+<p align="center" width="20"> <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="ompanchwate" /> </p>
 
-- 🔭 I’m currently working on **my skills.**
+- 👨‍💻 I’m currently working on **My Skills.**
 
-- 🌱 I’m currently exploring **something new.**
+- 💻 I’m currently exploring **Something New.**
 
 - 💬 Ask me about **Web Development.**
 
