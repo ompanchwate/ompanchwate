@@ -3,7 +3,7 @@
 
 <p align="center" width="20"> <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="ompanchwate" /> </p>
 
-- 👨‍💻 I’m currently working on **My Skills.**
+- 👨‍💻 I’m currently searching for an **Opportunity**
 
 - 💻 I’m currently exploring **Something New.**
 
