@@ -5,7 +5,9 @@
 
 - 👨‍💻 I’m currently searching for an **Opportunity**
 
-- 💻 I’m currently exploring **Something New.**
+- 💻 I’m currently exploring **New Technologies**
+
+- 💻 I’m currenlty Learning **MERN Stack**
 
 - 💬 Ask me about **Web Development.**
 
